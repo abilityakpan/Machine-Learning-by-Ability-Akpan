@@ -1,0 +1,118 @@
+Breed,Country of Origin,Fur Color,Height,Color of Eyes,Longetivity,Temparament,Common Health Problems,weight,Food,Coat Length
+Labrador Retriever,Canada,Chocolate,21-24,Brown,10/12/2024, Energetic,Hip dysplasia,227,Dry food,short
+German Shepherd,Germany,Tan,22-26,Brown,07/10/2024,Protective, pancreatitis,20,Canned food,medium
+Bulldog,England,Red,72-18,Brown,08/10/2024, Brave,Skin allergies,35,semi-moist food,medium
+Poodle,France,Apricot,14-29,Blue,01/12/2015, Hypoallergenic,epilepsy,22,Home-cooked Receipes,short
+Beagle,England,Lemon,13-15,Brown,01/12/2015,Curious,Ear infections,10,Raw Diet,long
+Chihuahua,Mexico,Black,22-27,Blue,01/12/2020,Sensitive,Dental problems,25,Purina,long
+Boxer,Germany,Brindle,21-25,Brown,10/12/2024, Playful,cancer,9,Dry food,short
+Golden Retriever,Scotland,Golden,21-24,Brown,10/12/2024,Intelligent, cancer,22,Canned food,long
+Pug,China,Fawn,21-16,Brown,01/12/2015,Social,Eye problems,27,Purina,medium
+Rottweiler,Germany,Tan,22-27,Brown,08/10/2024,Strong,Obesity,25,Home-cooked Receipes,medium
+Siberian Husky,Russia,White,21-24,Blue,01/12/2015,Independent,eye problems,36,semi-moist food,short
+Dachshund,Germany,Black,21-30,Blue,01/12/2015,Loyal,Intervertebral disc disease,27,Home-cooked Receipes,long
+Shih Tzu,China,Brown,27-15,Brown,01/10/2016,Affectionate, respiratory issues,22,Raw Diet,short
+Bichon Frise,France,White,18-23,Brown,01/12/2015, Intelligent,bladder stones,10,Purina,long
+Australian Shepherd,Australia,Red,18-23,Blue,01/12/2015, Loyal,diabetes,40,Canned food,medium
+Basset Hound,France,Tan,21-18,Brown,10/12/2024,Patient, ear infections,13,semi-moist food,short
+Cocker Spaniel,England,Brown,14-15,Brown,01/12/2015,Confident,Ear infections,29,Raw Diet,long
+French Bulldog,France,Brindle,21-27,Brown,10/12/2024,Good-natured,Breathing problems,22,Canned food,short
+Pomeranian,Germany,Orange,21-33,Brown,01/12/2016,Curious, obesity,49,Dry food,medium
+Great Dane,Germany, Harlequin,28-34,Brown,08/10/2024,Gentle, heart conditions,6,Dry food,long
+Mastiff,England,Sable,30-34,Brown,08/10/2024,Protective,Hip dysplasia,40,Purina,short
+Newfoundland,Canada,Grey,26-28,Brown,09/11/2024,Loyal, heart conditions,5,Home-cooked Receipes,medium
+Saint Bernard,Switzerland,Red,26-30,Brown,08/10/2024,Gentle,",heart conditions",27,Canned food,long
+Old English Sheepdog,England,Grey,22-26,Brown,10/12/2024,Social,skin allergies,9,semi-moist food,short
+Irish Wolfhound,Ireland,Red,30-35,Brown,06/08/2024,Independent,heart conditions,29,Home-cooked Receipes,medium
+Greyhound,England,Brindle,26-30,Brown,10/12/2024,Athletic, eye problems,63,Dry food,long
+Scottish Deerhound,Scotland,Blue,28-32,Brown,08/10/2024,Intelligent,Hip dysplasia,72,semi-moist food,short
+Great Pyrenees,France,White,25-32,Brown,10/12/2024,Affectionate, cancer,30,Canned food,medium
+Shar Pei,China,Cream,18-20,Brown,08/12/2024,Independent,Skin allergies,50,Canned food,long
+Doberman Pinscher,Germany,Black,24-28,Brown,10/12/2024, Energetic,Hip dysplasia,20,Royal canine,short
+Weimaraner,Germany,Silver,25-29,Grey,10/12/2024, Loyal, eye problems,80,Canned food,medium
+Belgian Malinois,Belgium,Mahogany,22-26,Brown,01/12/2014,Energetive,skin allergies,20,Purina,medium
+Rhodesian Ridgeback,Rhodesia,Light Wheaten,25-27,Brown,10/12/2024, Athletic, cancer,15,Dry food,long
+English Setter,England,silver,23-27,Brown,01/12/2015,hypoallergenic,eye problems,23,Royal canine,short
+Pointer,England,Liver,21-27,Brown,01/12/2015,Energeti,", eye problems",9,Dry food,medium
+Gordon Setter,Scotland,Black,23-27,Brown,01/12/2015,Protective,diabetes,40,semi-moist food,long
+Irish Setter,Ireland,Red,24-28,Brown,01/12/2015,Affectionate,pancreatitis,34,Home-cooked Receipes,short
+Papillon,France,Sable,24-30,Brown,01/12/2015,Gentle,Dental problems,19,Purina,short
+Pekingese,China,Red,28-20,Brown,01/12/2015,Independent,respiratory issues,21,Royal canine,long
+Toy Poodle,France,Apricot,21-15,Blue,01/12/2015,Hypoallergenic, bladder stones,50,Royal canine,medium
+Miniature Poodle,France,Apricot,34-12,Blue,01/12/2015,Active ,Hip dysplasia,80,Dry food,long
+Standard Poodle,France,White,15-22,Blue,01/12/2015,Active , epilepsy,14,Home-cooked Receipes,short
+Affenpinscher,Germany, Red,23-15,Brown,01/12/2015,Good-natured,Dental problems,23,semi-moist food,medium
+Boston Terrier,United States,Black,15-17,Brown,01/11/2013,Intelligent,Eye problems,20,Home-cooked Receipes,long
+Brussels Griffon,Belgium,Black,30-12,Brown,01/12/2015,Gentle,Dental problems,23,Canned food,short
+Cairn Terrier,Scotland,Wheaten,23-12,Brown,01/12/2015,Independent,Dental problems,70,Dry food,medium
+Chinese Crested,China,Pink,24-12,Brown,01/12/2015,Affectionate,skin allergies,19,Royal canine,long
+Miniature Schnauzer,Germany,White,41-12,Brown,01/12/2015,Playful,pancreatitis,34,semi-moist food,short
+Standard Schnauzer,Germany,Black,18-20,Brown,01/12/2015,Energetic, pancreatitis,55,Purina,medium
+West Highland White Terrier,Scotland,White,45-30,Brown,01/12/2016,Active ,skin allergies,76,Raw Diet,long
+Australian Terrier,Australia,Tan,30-12,Brown,01/12/2015,Athletic,hip dysplasia,9,Raw Diet,long
+Border Terrier,England,Wheaten,28-16,Brown,01/12/2016,Intelligent,"skin allergies, a",21,semi-moist food,short
+Coton de Tulear,Madagascar,White,45-12,Brown,01/12/2014,Loyal, skin allergies,34,Home-cooked Receipes,medium
+English Toy Spaniel,England,Blenheim,24-18,Brown,01/12/2014,Intelligent,hip dysplasia,56,Dry food,long
+Australian Stumpy Tail Cattle Dog,Australia,Black,17-20,Brown,01/12/2014,Intelligent, eye issues,12,Royal canine,short
+Pug,China,Fawn,30-13,Brown,01/12/2015,Energetic,respiratory issues,21,Canned food,medium
+American Eskimo Dog,United States,White,15-19,Brown,01/12/2015,Playful,eye problems,68,Dry food,long
+Australian Cattle Dog,Australia,Red,17-20,Brown,01/12/2016,Intelligent, skin allergies,12,Royal canine,short
+Basset Hound,France,White,21-12,Brown,10/12/2024,Gentle,Dental problems,7,semi-moist food,medium
+Australian Kelpie,Australia,Black,17-20,Brown,01/12/2014,Brave,Intervertebral disc disease,34,semi-moist food,long
+Bloodhound,England,Red,22-27,Brown,10/12/2024,Loyal,Dental problems,23,Dry food,long
+Border Collie,England,Black,18-22,Brown,01/12/2015,Playful,eye issues,64,Home-cooked Receipes,short
+Australian Shepherd,Australia,Blue Merle,20-23,Brown,01/12/2014,Intelligent,Dental problems,21,Purina,medium
+American Bulldog,United States,White,20-28,Brown,10/12/2024,Loyal,eye issues,32,Canned food,long
+Australian Shepherd,Australia,Red,18-23,Brown,01/12/2015,Playful,hip dysplasia,54,Raw Diet,short
+Borzoi,Russia,Cream,26-29,Brown,10/12/2024,Gentle,skin allergies,67,Raw Diet,long
+Bull Terrier,England,White,20-22,Brown,10/12/2024,Loyal,Dental problems,77,Purina,short
+Cane Corso,Italy,Black,22-28,Brown,10/12/2024,hypoallergenic,eye issues,22,Home-cooked Receipes,medium
+Cardigan Welsh Corgi,Wales,Sable,34-21,Brown,01/12/2014,Curious, skin allergies,32,Canned food,long
+Chesapeake Bay Retriever,United States,Brown,21-26,Brown,01/12/2014,Brave,skin allergies,67,Royal canine,short
+Saluki,Middle East,Cream,23-28,Brown,01/12/2014,Gentle,skin allergies,24,Purina,medium
+English Setter,England,Liver,25-27,Brown,01/12/2014,Loyal,Dental problems,46,Home-cooked Receipes,long
+English Springer Spaniel,England,Black,20-24,Brown,01/12/2014,Playful,Dental problems,12,semi-moist food,medium
+Field Spaniel,England,Black,15-18,Brown,01/12/2014,Good-natured,Intervertebral disc disease,24,Canned food,short
+Finnish Spitz,Finland,Red,15-20,Brown,01/12/2015,Good-natured,Dental problems,5,Dry food,long
+Flat-Coated Retriever,England,Black,22-25,Brown,01/12/2014,Energetic,Dental problems,99,Dry food,long
+Australian Terrier,Australia,Red,30-21,Brown,01/12/2015,Intelligent, skin allergies,21,Canned food,medium
+Giant Schnauzer,Germany,Black,25-28,Brown,10/12/2024,Energetic, skin allergies,34,Purina,short
+Golden Retriever,Scotland,Gold,21-24,Brown,01/12/2014,Playful,skin allergies,56,Royal canine,long
+Gordon Setter,Scotland,Black,24-27,Brown,01/12/2014,Affectionate,Dental problems,21,Raw Diet,medium
+Australian Cattle Dog,Australia,Blue,17-20,Brown,01/12/2014,hypoallergenic,skin allergies,79,semi-moist food,short
+Greyhound,England,White,26-30,Brown,10/12/2024, Energetic,Obesity,89,Canned food,long
+Harrier,England,Red,18-21,Brown,01/12/2014,Independent,Cancer,21,Purina,short
+Irish Setter,Ireland,Red,26-28,Brown,01/12/2014,Confident,epilepsy,34,Royal canine,medium
+Irish Terrier,Ireland,Red,14-16,Brown,01/12/2014,Patient,skin allergies,45,Dry food,short
+Irish Water Spaniel,Ireland,Brown,21-24,Brown,01/12/2014,Sensitive,Dental problems,21,Raw Diet,long
+Irish Wolfhound,Ireland,Grey,30-35,Brown,06/10/2024,Loyal,skin allergies,45,semi-moist food,medium
+Italian Greyhound,Italy,Red,13-15,Brown,01/12/2015,Playful,Dental problems,53,Home-cooked Receipes,long
+Jack Russell Terrier,England,White,18-15,Brown,01/12/2015,Good-natured,epilepsy,34,Home-cooked Receipes,short
+Japanese Chin,Japan,Black,28-16,Brown,01/12/2015,Intelligent,hip dysplasia,34,semi-moist food,long
+Keeshond,Netherlands,Cream,17-19,Brown,01/12/2015,Energetic,epilepsy,25,Dry food,short
+Kerry Blue Terrier,Ireland,Blue,17-19,Brown,01/12/2014,Strong,Cancer,35,Royal canine,medium
+Kuvasz,Hungary,White,25-29,Brown,10/12/2024,Loyal,"elbow dysplasia,",34,Raw Diet,medium
+Lhasa Apso,Tibet,Black,29-17,Brown,01/12/2015,Intelligent,Obesity,89,Dry food,short
+Maltese,Malta,White,21-15,Brown,01/12/2015,Intelligent,"elbow dysplasia,",67,Raw Diet,long
+Miniature Pinscher,Germany,Stag Red,30-21,Brown,01/12/2014,Good-natured,Obesity,67,Royal canine,medium
+Samoyed,Russia,White,21-23,Brown,01/12/2014,Playful,eye problems,45,Home-cooked Receipes,short
+Shetland Sheepdog,Scotland,Sable,13-16,Brown,01/12/2014,Curious, skin allergies,43,semi-moist food,long
+Staffordshire Bull Terrier,England, Red,14-16,Brown,01/12/2014,Intelligent,Cancer,42,Purina,short
+Vizsla,Hungary,Red,20-24,Brown,01/12/2014,Sensitive,skin allergies,66,Raw Diet,medium
+Anatolian Shepherd,Turkey,Fawn,27-29,Brown,01/12/2014,Social,skin allergies,54,Dry food,short
+Welsh Corgi,Wales,Sable,29-13,Brown,01/12/2015,Strong,eye issues,34,Home-cooked Receipes,long
+Welsh Springer Spaniel,Wales,Liver,20-25,Brown,01/12/2014,Brave,skin allergies,75,Royal canine,medium
+Welsh Terrier,Wales,Tan,24-18,Brown,01/12/2015,Curious, eye issues,56,Purina,long
+West Highland White Terrier,Scotland,White,24-18,Brown,01/12/2015,hypoallergenic,Dental problems,32,Home-cooked Receipes,medium
+Whippet,England,Red,18-22,Brown,01/12/2015, Loyal, skin allergies,66,Purina,short
+Wirehaired Pointing Griffon,Belgium,White,21-24,Brown,01/12/2014,Intelligent,skin allergies,24,Dry food,short
+Xoloitzcuintli,Mexico,Red,21-15,Brown,01/12/2015,Intelligent, skin allergies,76,Royal canine,long
+Yorkshire Terrier,England,Tan,28-13,Brown,01/12/2015,Energetic,skin allergies,56,Home-cooked Receipes,short
+Akita,Japan,Sesame,24-28,Brown,10/12/2024,Loyal, eye issues,3,Dry food,long
+Africanis,Africa,Brown,22-25,Brown,01/12/2015,hypoallergenic,Dental problems,89,Purina,short
+Basenji,Congo,Red,16-17,Brown,01/12/2015,Playful,Intervertebral disc disease,45,Home-cooked Receipes,medium
+Catahoula Leopard Dog,United States,Merle,20-26,Brown,01/12/2014,Intelligent,Dental problems,32,Purina,long
+Cocker Spaniel,England,Brown,14-15,Brown,01/12/2015,Good-natured,Dental problems,4,Royal canine,short
+Miniature Shiba Inu,Japan,Sesame,13-16,Brown,01/12/2015,Playful,eye issues,82,semi-moist food,long
+Belgian Tervuren,Belgium,Fawn,22-26,Brown,01/12/2014, Energetic,skin allergies,74,Dry food,long
+Pharaoh Hound,Malta,Red,21-25,Brown,01/12/2014,Loyal, skin allergies,56,Raw Diet,medium
